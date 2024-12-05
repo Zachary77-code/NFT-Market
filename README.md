@@ -14,19 +14,6 @@ $ npm run dev
 ```
 
 
-## Used packages
-
-- [Truffle](https://truffleframework.com/truffle)
-- [web3.js](https://github.com/ethereum/web3.js/)
-- [Chart.js](https://github.com/chartjs/Chart.js)
-- [Annotation plugin for Chart.js](https://github.com/chartjs/chartjs-plugin-annotation)
-- [Fitty, Snugly text resizing](https://github.com/rikschennink/fitty)
-
-
-## Tools
-
-- [MetaMask](https://metamask.io/)
-
 
 ##
 Contact me : Wechat: 735187569
