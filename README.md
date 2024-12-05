@@ -18,7 +18,7 @@ $ npm run dev
 
 https://github.com/user-attachments/assets/e75b813a-ea0c-4014-9441-1e5201aa195f
 
-As shown in the end of video, to check the current NFT changes in wallet, please click that NFT and then it should be updated in wallet (the NFT transfers have alrealy recorded on chain once the transactions have happened)  
+As shown at the end of video, to check the current NFT changes in wallet, please click that NFT and then it should be updated in wallet (the NFT transfers have alrealy recorded on chain once the transactions have happened)  
 
 ##
 Contact me : Wechat: 735187569
