@@ -13,6 +13,11 @@ $ truffle migrate --reset --network ganache
 $ npm run dev
 ```
 
+## Demo Video
+
+
+https://github.com/user-attachments/assets/e75b813a-ea0c-4014-9441-1e5201aa195f
+
 
 
 ##
